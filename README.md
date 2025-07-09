@@ -51,3 +51,5 @@ Mi piace ragionare per modelli, simulare contesti realistici e testare attivamen
 🎯 Cosa cerco  
 Sono aperto a **prime esperienze** in ambito IT e cybersecurity:  
 SOC Analyst · Vulnerability Analyst · Junior Pentester · Incident Responder
+
+#.
